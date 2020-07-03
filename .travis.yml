@@ -25,7 +25,7 @@ deploy:
   provider: releases
   api_key:
     secure: UGfQPVXP6vSdsSYPNf8EuLeSwUv2LrEtqQKahq2cnt7BOdcEqV517vj7QV49MpWbu23kqLf3bi5T4WjliMaEzlj+UlvhnhqDJOFm5MiotDadrXbVbRXcBkoVM+71ucFAVTQGmAlHhf6csMCFLnUq+lhBUT8nag6NHr0HPQJR0Rp/P0440MjK8vmzeohK+f+Fy/TSy6w5PO34n1FTksJiZ0qfc9pTdlBCxF7XVarwwOvPOZjwnAE+5oquR+VmtV4nQLeNyAWxuwIdnMUxdTwsFb9jGbGLbcokXCQxSh9C99H0MesKuEspYbE/C1JlxEkXgEQAjr9oeDcXqFX9nKLYxqzud1esLxfOIscPch4Y1sjhX6+DVPRvUJHRQT96R4ftUBOy1ceQWgIXxwHX4ME+2qBiv2BMOC9S3meCyW6ES/USlIRyUn9gePFWa5/+9FsuMqhfnGEiPcKQyUXJdUqZzLG7+iOAm1Wu5ngFqg+J44BSYqR8uWA3YzQ1wtoOimKPBdhggqSj/xN6pMF3xM875GyPrN1K0aJwjnnWH7y2ETt5GMdoDNIJcsqiPqRLlG3J+vqSEvwpHiS9nGF/VcIs6RIdP/w39fPdVJ9xBIJiXsgS7AozZgsPrCDA7nrJ8oHVQ8ftIWXERa8AHNjRxzjAJJPfqGP+PwbG58oej5BHBC0=
-  file: Gerbers/LOG-101
+  file: Gerbers/LOG-101_gerbers.zip
   on:
     repo: w4xzr/LOG-101
   skip_cleanup: 'true'
